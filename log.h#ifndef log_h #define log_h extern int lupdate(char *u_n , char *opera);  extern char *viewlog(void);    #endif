@@ -1,0 +1,8 @@
+#ifndef log_h
+#define log_h
+
+extern int lupdate(char *u_n , char *opera);
+ extern char *viewlog(void);
+ 
+ #endif
+
